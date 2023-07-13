@@ -1,2 +1,2 @@
 # Davids_food
-Proyecto usan de comidas rápidas usando Tailwind Css, HTML5
+Proyecto de comidas rápidas usando Tailwind Css, HTML5
